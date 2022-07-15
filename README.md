@@ -1,7 +1,2 @@
 # Science Communication/Popularization
-
-I have engaged myself with science popularization since 2011. I worked in Sardar Vallabhbhai National institute of technology (SVNIT), Surat, India. 
-I have a conducted and organized many workshops and fun while learn teaching methods to get maximum engagement of the students. 
-Some of the events which I organized were PCB making workshop, Science quiz, Dart game based on physics questions, Sci-fi movie in weekend followed by a discussion where students engage to explain various aspects of movie based on scientific accuracy and artistic freedom. 
-I also did many workshops on career counselling in the field of research and opportunities at various level of studies both in India and abroad.
-This repository is an album of pictures and presentations which I gave to popularize science in my hometown, Surat.
+Since 2011, I've been involved in science outreach and public education initiatives. The Sardar Vallabhbhai National Institute of Technology (SVNIT) in Surat, India, was where I used to work. I've designed and led a number of seminars aimed at helping educators have more fun while developing effective teaching strategies. Students engaged in a sci-fi movie discussion following a screening of a science fiction film in which they discussed various aspects of the film using scientific truth and artistic license as a guide. I conducted a number of workshops on career counseling in the areas of research and possibilities for students at all levels of education This repository is a collection of photos and presentations that I used to spread the word about science in my hometown of Surat, India.
